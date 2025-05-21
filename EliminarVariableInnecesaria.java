@@ -4,7 +4,7 @@ public class EliminarVariableInnecesaria {
         //double resultado = calcularDescuento (200, 10)
         //System.out.println("precio con descuento: " + resultado); 
         //despues(variable eliminada)
-
+//hola
 
         System.out.println("Precio con descuento: " + calcularDescuento(200, 10));
 
